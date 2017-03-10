@@ -1,7 +1,7 @@
 /**
  * <p>Title: AccountService.java</p>
  * <p></p>
- * @author damon
+ * @author Alexander
  * @date 2015年4月10日
  * @version 1.0
  */
@@ -14,7 +14,7 @@ import com.wx.serveplatform.model.Account;
 /**
  * <p>Title: AccountService</p>
  * <p></p> 
- * @author damon
+ * @author Alexander
  * @date 2015年4月10日
  */
 public interface AccountService {
@@ -22,7 +22,7 @@ public interface AccountService {
 	/**
 	 * <p>findAll</p>
 	 * <p></p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年4月10日
 	 * @return
 	 */
@@ -31,7 +31,7 @@ public interface AccountService {
 	/**
 	 * <p>save</p>
 	 * <p></p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年4月10日
 	 * @param model
 	 * @return
@@ -41,7 +41,7 @@ public interface AccountService {
 	/**
 	 * <p>delete</p>
 	 * <p></p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年4月10日
 	 * @param _ids
 	 */
@@ -50,7 +50,7 @@ public interface AccountService {
 	/**
 	 * <p>findById</p>
 	 * <p></p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年4月10日
 	 * @param id
 	 * @return

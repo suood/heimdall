@@ -1,7 +1,7 @@
 /**
  * <p>Title: AccountController.java</p>
  * <p></p>
- * @author damon
+ * @author Alexander
  * @date 2015年4月10日
  * @version 1.0
  */
@@ -24,7 +24,7 @@ import com.wx.serveplatform.utils.WxApiUtil;
 /**
  * <p>Title: AccountController</p>
  * <p></p> 
- * @author damon
+ * @author Alexander
  * @date 2015年4月10日
  */
 @Controller

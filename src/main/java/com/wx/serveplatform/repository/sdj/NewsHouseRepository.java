@@ -1,7 +1,7 @@
 /**
  * <p>Title: NewsHouseRepository.java</p>
  * <p></p>
- * @author damon
+ * @author Alexander
  * @date 2015年3月17日
  * @version 1.0
  */
@@ -15,7 +15,7 @@ import com.wx.serveplatform.model.NewsHouse;
 /**
  * <p>Title: NewsHouseRepository</p>
  * <p></p> 
- * @author damon
+ * @author Alexander
  * @date 2015年3月17日
  */
 public interface NewsHouseRepository extends BaseRepository<NewsHouse, Integer>, JpaSpecificationExecutor<NewsHouse> {

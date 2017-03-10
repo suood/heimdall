@@ -1,7 +1,7 @@
 /**
  * <p>Title: WxMaterialUtil.java</p>
  * <p></p>
- * @author damon
+ * @author Alexander
  * @date 2015年3月23日
  * @version 1.0
  */
@@ -31,7 +31,7 @@ import com.wx.serveplatform.repository.sdj.AutoResponseRepository;
 /**
  * <p>Title: WxMaterialUtil</p>
  * <p></p> 
- * @author damon
+ * @author Alexander
  * @date 2015年3月23日
  */
 public class WxMaterialUtil {
@@ -65,7 +65,7 @@ public class WxMaterialUtil {
 	/**
 	 * <p>getWxImageList</p>
 	 * <p>获取缓存的微信图片</p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年3月23日
 	 * @param appId
 	 * @return
@@ -120,7 +120,7 @@ public class WxMaterialUtil {
 	/**
 	 * <p>getWxVoiceList</p>
 	 * <p>获取缓存的微信音频</p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年3月23日
 	 * @param appId
 	 * @return
@@ -174,7 +174,7 @@ public class WxMaterialUtil {
 	/**
 	 * <p>getWxVideoList</p>
 	 * <p>获取缓存的微信视频</p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年3月23日
 	 * @param appId
 	 * @return
@@ -228,7 +228,7 @@ public class WxMaterialUtil {
 	/**
 	 * <p>getWxNewsList</p>
 	 * <p>获取缓存的微信图文</p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年3月23日
 	 * @param appId
 	 * @return

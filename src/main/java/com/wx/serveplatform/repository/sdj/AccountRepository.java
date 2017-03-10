@@ -1,7 +1,7 @@
 /**
  * <p>Title: AccountRepository.java</p>
  * <p></p>
- * @author damon
+ * @author Alexander
  * @date 2015年1月21日
  * @version 1.0
  */
@@ -13,7 +13,7 @@ import com.wx.serveplatform.model.Account;
 /**
  * <p>Title: AccountRepository</p>
  * <p></p> 
- * @author damon
+ * @author Alexander
  * @date 2015年1月21日
  */
 public interface AccountRepository extends BaseRepository<Account, Integer> {

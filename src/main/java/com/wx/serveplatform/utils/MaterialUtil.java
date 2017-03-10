@@ -1,7 +1,7 @@
 /**
  * <p>Title: MaterialUtil.java</p>
  * <p></p>
- * @author damon
+ * @author Alexander
  * @date 2015年3月12日
  * @version 1.0
  */
@@ -17,7 +17,7 @@ import com.wx.serveplatform.repository.sdj.PhotoRepository;
 /**
  * <p>Title: MaterialUtil</p>
  * <p></p> 
- * @author damon
+ * @author Alexander
  * @date 2015年3月12日
  */
 public class MaterialUtil {

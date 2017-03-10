@@ -1,7 +1,7 @@
 /**
  * <p>Title: QrcodeRepository.java</p>
  * <p></p>
- * @author damon
+ * @author Alexander
  * @date 2015年5月27日
  * @version 1.0
  */
@@ -15,7 +15,7 @@ import com.wx.serveplatform.model.Qrcode;
 /**
  * <p>Title: QrcodeRepository</p>
  * <p></p> 
- * @author damon
+ * @author Alexander
  * @date 2015年5月27日
  */
 public interface QrcodeRepository extends BaseRepository<Qrcode, Integer>, JpaSpecificationExecutor<Qrcode>  {

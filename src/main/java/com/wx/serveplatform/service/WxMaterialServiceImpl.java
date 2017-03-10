@@ -1,7 +1,7 @@
 /**
  * <p>Title: WxMaterialServiceImpl.java</p>
  * <p></p>
- * @author damon
+ * @author Alexander
  * @date 2015年3月23日
  * @version 1.0
  */
@@ -15,7 +15,7 @@ import org.springframework.stereotype.Service;
 /**
  * <p>Title: WxMaterialServiceImpl</p>
  * <p></p> 
- * @author damon
+ * @author Alexander
  * @date 2015年3月23日
  */
 @Service

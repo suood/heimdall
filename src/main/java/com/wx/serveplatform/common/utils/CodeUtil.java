@@ -1,7 +1,7 @@
 /**
  * <p>Title: CodeUtil.java</p>
  * <p>编码</p>
- * @author damon
+ * @author Alexander
  * @date 2014年12月3日
  * @version 1.0
  */
@@ -13,7 +13,7 @@ import java.util.Random;
 /**
  * <p>Title: CodeUtil</p>
  * <p>编码</p> 
- * @author damon
+ * @author Alexander
  * @date 2014年12月3日
  */
 public class CodeUtil {
@@ -24,7 +24,7 @@ public class CodeUtil {
 	/**
 	 * <p>validate</p>
 	 * <p>短信 6位验证码</p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2014年12月3日
 	 * @return
 	 */
@@ -44,7 +44,7 @@ public class CodeUtil {
 	/**
 	 * <p>cutDigit</p>
 	 * <p>保留三位小数</p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年1月13日
 	 * @param param
 	 * @return
@@ -60,7 +60,7 @@ public class CodeUtil {
 	/**
 	 * <p>random 抽奖</p>
 	 * <p>从已知数列中随机取数</p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年1月30日
 	 * @param nos 
 	 * @return

@@ -1,7 +1,7 @@
 /**
  * <p>Title: Photo.java</p>
  * <p></p>
- * @author damon
+ * @author Alexander
  * @date 2015年3月6日
  * @version 1.0
  */
@@ -16,7 +16,7 @@ import com.wx.serveplatform.base.model.BaseSearchEntity;
 /**
  * <p>Title: Photo</p>
  * <p>图片库</p> 
- * @author damon
+ * @author Alexander
  * @date 2015年3月6日
  */
 @Entity

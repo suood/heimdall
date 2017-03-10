@@ -1,7 +1,7 @@
 /**
  * <p>Title: SpringContextHolder.java</p>
  * <p></p>
- * @author damon
+ * @author Alexander
  * @date 2015年3月12日
  * @version 1.0
  */
@@ -17,7 +17,7 @@ import org.springframework.context.ApplicationContextAware;
 /**
  * <p>Title: SpringContextHolder</p>
  * <p></p>
- * @author damon
+ * @author Alexander
  * @date 2015年3月12日
  * @version 1.0
  */

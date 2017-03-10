@@ -1,7 +1,7 @@
 /**
  * <p>Title: DateUtil.java</p>
  * <p>日期、时间工具类</p>
- * @author damon
+ * @author Alexander
  * @date 2014年12月2日
  * @version 1.0
  */
@@ -17,7 +17,7 @@ import org.apache.commons.lang3.time.DateUtils;
 /**
  * <p>Title: DateUtil</p>
  * <p>日期、时间工具类</p> 
- * @author damon
+ * @author Alexander
  * @date 2014年12月2日
  */
 public class DateUtil extends DateUtils {
@@ -143,7 +143,7 @@ public class DateUtil extends DateUtils {
 	/**
 	 * <p>millisToDate</p>
 	 * <p>毫秒转日期类型</p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2014年12月30日
 	 * @param milliseconds
 	 * @return java.util.Date
@@ -157,7 +157,7 @@ public class DateUtil extends DateUtils {
 	/**
 	 * <p>whatMillis</p>
 	 * <p>取某日零点某时区的毫秒数 e.g.目前在东八区，获得8:00的毫秒数</p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年2月6日
 	 * @param date
 	 * @return

@@ -1,7 +1,7 @@
 /**
  * <p>Title: WxApiUtil.java</p>
  * <p>微信接口</p>
- * @author damon
+ * @author Alexander
  * @date 2015年3月16日
  * @version 1.0
  */
@@ -27,7 +27,7 @@ import com.wx.serveplatform.repository.sdj.AccountRepository;
 /**
  * <p>Title: WxApiUtil</p>
  * <p>微信接口</p> 
- * @author damon
+ * @author Alexander
  * @date 2015年3月16日
  */
 public class WxApiUtil {
@@ -52,7 +52,7 @@ public class WxApiUtil {
 	/**
 	 * <p>getAccessTokenMap</p>
 	 * <p>获取微信access_token缓存</p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年3月16日
 	 * @return
 	 */
@@ -81,7 +81,7 @@ public class WxApiUtil {
 	/**
 	 * <p>getJsTicketMap</p>
 	 * <p>获取微信JS ticket票据缓存</p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年3月16日
 	 * @return
 	 */
@@ -113,7 +113,7 @@ public class WxApiUtil {
 	/**
 	 * <p>timerScheduleTask</p>
 	 * <p>定时刷新微信缓存任务</p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年3月16日
 	 */
 	public static void timerScheduleTask() {

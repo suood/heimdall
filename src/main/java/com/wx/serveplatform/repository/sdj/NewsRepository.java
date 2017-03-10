@@ -1,7 +1,7 @@
 /**
  * <p>Title: NewsRepository.java</p>
  * <p></p>
- * @author damon
+ * @author Alexander
  * @date 2015年3月17日
  * @version 1.0
  */
@@ -15,7 +15,7 @@ import com.wx.serveplatform.model.News;
 /**
  * <p>Title: NewsRepository</p>
  * <p></p> 
- * @author damon
+ * @author Alexander
  * @date 2015年3月17日
  */
 public interface NewsRepository extends BaseRepository<News, Integer>, JpaSpecificationExecutor<News> {

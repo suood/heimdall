@@ -1,7 +1,7 @@
 /**
  * <p>Title: WxMaterialService.java</p>
  * <p></p>
- * @author damon
+ * @author Alexander
  * @date 2015年3月23日
  * @version 1.0
  */
@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServletRequest;
 /**
  * <p>Title: WxMaterialService</p>
  * <p></p> 
- * @author damon
+ * @author Alexander
  * @date 2015年3月23日
  */
 public interface WxMaterialService {
@@ -20,7 +20,7 @@ public interface WxMaterialService {
 	/**
 	 * <p>propertyDownloadDir</p>
 	 * <p></p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年4月3日
 	 * @param request
 	 */

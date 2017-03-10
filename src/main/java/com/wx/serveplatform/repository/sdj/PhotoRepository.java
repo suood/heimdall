@@ -1,7 +1,7 @@
 /**
  * <p>Title: PhotoRepository.java</p>
  * <p></p>
- * @author damon
+ * @author Alexander
  * @date 2015年3月6日
  * @version 1.0
  */
@@ -15,7 +15,7 @@ import com.wx.serveplatform.model.Photo;
 /**
  * <p>Title: PhotoRepository</p>
  * <p></p> 
- * @author damon
+ * @author Alexander
  * @date 2015年3月6日
  */
 public interface PhotoRepository extends BaseRepository<Photo, Integer>, JpaSpecificationExecutor<Photo> {

@@ -1,7 +1,7 @@
 /**
  * <p>Title: WeiXinController.java</p>
  * <p>对接微信公众平台</p>
- * @author damon
+ * @author Alexander
  * @date 2014年12月18日
  * @version 1.0
  */
@@ -38,7 +38,7 @@ import com.wx.serveplatform.utils.WxApiUtil;
 /**
  * <p>Title: WeiXinController</p>
  * <p>对接微信公众平台</p> 
- * @author damon
+ * @author Alexander
  * @date 2014年12月18日
  */
 @Controller
@@ -54,7 +54,7 @@ public class WeiXinController {
 	/**
 	 * <p>server</p>
 	 * <p>接入微信公众服务平台 后台服务</p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2014年12月18日
 	 * @param request
 	 * @param response
@@ -89,7 +89,7 @@ public class WeiXinController {
 	/**
 	 * <p>getJsTicket</p>
 	 * <p>JS接口 获得接入微信JS的验证</p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年1月19日
 	 * @param callBack
 	 * @param appId
@@ -122,7 +122,7 @@ public class WeiXinController {
 	/**
 	 * <p>getAccessToken</p>
 	 * <p>accessToken接口 获取全局缓存的accessToken</p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年3月20日
 	 * @param appId
 	 * @return
@@ -149,7 +149,7 @@ public class WeiXinController {
 	/**
 	 * <p>decorateOauth2Url</p>
 	 * <p>装饰重定向URL成Oauth@Url</p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年6月18日
 	 * @param appid
 	 * @param redirecturl
@@ -184,7 +184,7 @@ public class WeiXinController {
 	/**
 	 * <p>getOpenIdByOauth2</p>
 	 * <p>OpenId接口 通过Oauth2用户授权认证 获取用户OpenId</p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年3月17日
 	 * @param code
 	 * @return

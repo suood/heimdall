@@ -1,7 +1,7 @@
 /**
  * <p>Title: JpaCrudRepository.java</p>
  * <p></p>
- * @author damon
+ * @author Alexander
  * @date 2014年10月27日
  * @version 1.0
  */
@@ -12,7 +12,7 @@ import java.util.Collection;
 /**
  * <p>Title: JpaCrudRepository</p>
  * <p></p> 
- * @author damon
+ * @author Alexander
  * @date 2014年10月27日
  */
 public interface JpaCrudRepository<T> extends JpaRepository<T> {

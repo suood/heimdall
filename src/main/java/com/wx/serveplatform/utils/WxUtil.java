@@ -1,7 +1,7 @@
 /**
  * <p>Title: WxUtil.java</p>
  * <p></p>
- * @author damon
+ * @author Alexander
  * @date 2015年3月20日
  * @version 1.0
  */
@@ -24,7 +24,7 @@ import com.wx.middleware.server.util.WeiXinUtil;
 /**
  * <p>Title: WxUtil</p>
  * <p></p> 
- * @author damon
+ * @author Alexander
  * @date 2015年3月20日
  */
 public class WxUtil {
@@ -32,7 +32,7 @@ public class WxUtil {
     /**
      * <p>batchget_material_news</p>
      * <p>获取指定offset起的count条图文</p>
-     * @author damon
+     * @author Alexander
      * @date 2015年3月23日
      * @param access_token
      * @param offset
@@ -58,7 +58,7 @@ public class WxUtil {
     /**
      * <p>batchget_material_image</p>
      * <p>获取微信素材库 图片素材</p>
-     * @author damon
+     * @author Alexander
      * @date 2015年3月23日
      * @param access_token
      * @param offset
@@ -78,7 +78,7 @@ public class WxUtil {
     /**
      * <p>batchget_material_voice</p>
      * <p>获取微信素材库 音频素材</p>
-     * @author damon
+     * @author Alexander
      * @date 2015年3月23日
      * @param access_token
      * @param offset
@@ -98,7 +98,7 @@ public class WxUtil {
     /**
      * <p>batchget_material_video</p>
      * <p>获取微信素材库 视频素材</p>
-     * @author damon
+     * @author Alexander
      * @date 2015年3月23日
      * @param access_token
      * @param offset
@@ -119,7 +119,7 @@ public class WxUtil {
     /**
      * <p>batchget_material_others</p>
      * <p>获取指定offset起的count条其他类型（图片、语音、视频）</p>
-     * @author damon
+     * @author Alexander
      * @date 2015年3月23日
      * @param access_token
      * @param type

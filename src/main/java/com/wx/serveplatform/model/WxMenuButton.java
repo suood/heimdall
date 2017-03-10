@@ -1,7 +1,7 @@
 /**
  * <p>Title: WxMenuButton.java</p>
  * <p></p>
- * @author damon
+ * @author Alexander
  * @date 2015年4月9日
  * @version 1.0
  */
@@ -17,7 +17,7 @@ import com.wx.serveplatform.base.model.BaseSearchEntity;
 /**
  * <p>Title: WxMenuButton</p>
  * <p></p> 
- * @author damon
+ * @author Alexander
  * @date 2015年4月9日
  */
 @Entity

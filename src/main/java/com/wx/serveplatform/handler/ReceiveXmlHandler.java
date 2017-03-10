@@ -1,7 +1,7 @@
 /**
  * <p>Title: ReceiveXmlHandler.java</p>
  * <p>处理接收的微信xml消息</p>
- * @author damon
+ * @author Alexander
  * @date 2014年12月19日
  * @version 1.0
  */
@@ -21,7 +21,7 @@ import com.wx.middleware.server.util.WeiXinUtil;
 /**
  * <p>Title: ReceiveXmlHandler</p>
  * <p>处理接收的微信xml消息</p> 
- * @author damon
+ * @author Alexander
  * @date 2014年12月19日
  */
 public class ReceiveXmlHandler {
@@ -29,7 +29,7 @@ public class ReceiveXmlHandler {
 	/**
 	 * <p>getMsgEntity</p>
 	 * <p>解析微信端发送过来的数据 封装到ReceiveXml对象</p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2014年12月19日
 	 * @date 2015年1月23日
 	 * @param msgXml

@@ -1,7 +1,7 @@
 /**
  * <p>Title: MaterialService.java</p>
  * <p></p>
- * @author damon
+ * @author Alexander
  * @date 2015年3月5日
  * @version 1.0
  */
@@ -21,7 +21,7 @@ import com.wx.serveplatform.model.Photo;
 /**
  * <p>Title: MaterialService</p>
  * <p></p> 
- * @author damon
+ * @author Alexander
  * @date 2015年3月5日
  */
 public interface MaterialService {
@@ -29,7 +29,7 @@ public interface MaterialService {
 	/**
 	 * <p>upload</p>
 	 * <p>上传资源</p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年3月5日
 	 * @param file
 	 * @param request
@@ -40,7 +40,7 @@ public interface MaterialService {
 	/**
 	 * <p>findPhotoById</p>
 	 * <p></p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年3月6日
 	 * @param id
 	 * @return
@@ -50,7 +50,7 @@ public interface MaterialService {
 	/**
 	 * <p>save</p>
 	 * <p></p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年3月6日
 	 * @param model
 	 * @return
@@ -60,7 +60,7 @@ public interface MaterialService {
 	/**
 	 * <p>searchPhotos</p>
 	 * <p></p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年3月6日
 	 * @param searchParams
 	 * @return
@@ -70,7 +70,7 @@ public interface MaterialService {
 	/**
 	 * <p>delete</p>
 	 * <p></p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年3月9日
 	 * @param _ids
 	 * @param request 
@@ -80,7 +80,7 @@ public interface MaterialService {
 	/**
 	 * <p>searchNews</p>
 	 * <p></p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年3月17日
 	 * @param searchParams
 	 * @return

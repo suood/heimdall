@@ -1,7 +1,7 @@
 /**
  * <p>Title: WeiXinHandler.java</p>
  * <p>微信对接处理类</p>
- * @author damon
+ * @author Alexander
  * @date 2014年12月19日
  * @version 1.0
  */
@@ -31,7 +31,7 @@ import com.wx.serveplatform.utils.WxMaterialUtil;
 /**
  * <p>Title: WeiXinHandler</p>
  * <p>微信对接处理类</p> 
- * @author damon
+ * @author Alexander
  * @date 2014年12月19日
  */
 public class WeiXinHandler {
@@ -41,7 +41,7 @@ public class WeiXinHandler {
      * <p>接收微信消息 所有接入消息的处理入口</p>
      * <p>明文、密文兼容明文、密文</p>
      * <p>文本、事件、语音等</p>
-     * @author damon
+     * @author Alexander
      * @date 2014年12月22日
      * @param msg
 	 * @throws IOException 
@@ -114,7 +114,7 @@ public class WeiXinHandler {
 	/**
      * <p>Msg2ReceiveXml</p>
      * <p>解析微信端发送过来的数据 封装到ReceiveXml对象</p>
-     * @author damon
+     * @author Alexander
      * @date 2014年12月23日
      * @param request
      * @return
@@ -142,7 +142,7 @@ public class WeiXinHandler {
     /**
      * <p>defaultResult</p>
      * <p>默认回复</p>
-     * @author damon
+     * @author Alexander
      * @date 2015年4月7日
      * @param xmlEntity
      * @return
@@ -159,7 +159,7 @@ public class WeiXinHandler {
     /**
      * <p>text_response</p>
      * <p>回复文本消息</p>
-     * @author damon
+     * @author Alexander
      * @date 2015年4月7日
      * @param xmlEntity
      * @param content
@@ -183,7 +183,7 @@ public class WeiXinHandler {
 	/**
 	 * <p>image_response</p>
 	 * <p>回复图片消息</p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年4月7日
 	 * @param xmlEntity
 	 * @param re
@@ -197,7 +197,7 @@ public class WeiXinHandler {
 	/**
 	 * <p>news_response</p>
 	 * <p>回复图文消息</p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年4月7日
 	 * @param xmlEntity
 	 * @param re

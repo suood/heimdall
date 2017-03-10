@@ -1,9 +1,9 @@
 /**
  * <p>Title: FileUtils.java</p>
  * <p>Description: 文件工具类</p>
- * <p>Copyright: Copyright (c) 2014</p>
- * <p>Company: xiaoma.com</p>
- * @author damon
+ *
+ * <p>Company: suood</p>
+ * @author Alexander
  * @date 2014年8月1日
  * @version 1.0
  */
@@ -19,8 +19,8 @@ import org.springframework.web.multipart.MultipartFile;
 /**
  * <p>Title: FileUtils</p>
  * <p>Description: 文件工具类</p>
- * <p>Company: xiaoma.com</p> 
- * @author damon
+ * <p>Company: suood</p>
+ * @author Alexander
  * @date 2014年8月1日
  */
 public class FileUtils {
@@ -71,7 +71,7 @@ public class FileUtils {
 	/**
 	 * <p>new_Dir</p>
 	 * <p>补全目录</p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年4月3日
 	 * @param filePath
 	 * @return
@@ -109,7 +109,7 @@ public class FileUtils {
 	/**
 	 * <p>clear</p>
 	 * <p>清除文件</p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年3月9日
 	 * @param pathName
 	 * @throws IOException 

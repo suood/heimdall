@@ -1,7 +1,7 @@
 /**
  * <p>Title: ConverUtil.java</p>
  * <p></p>
- * @author damon
+ * @author Alexander
  * @date 2015年4月15日
  * @version 1.0
  */
@@ -15,7 +15,7 @@ import net.sourceforge.pinyin4j.format.HanyuPinyinToneType;
 /**
  * <p>Title: ConverUtil</p>
  * <p></p> 
- * @author damon
+ * @author Alexander
  * @date 2015年4月15日
  */
 public class ConverUtil {

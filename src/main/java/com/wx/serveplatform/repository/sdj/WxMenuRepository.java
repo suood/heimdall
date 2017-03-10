@@ -1,7 +1,7 @@
 /**
  * <p>Title: WxMenuRepository.java</p>
  * <p></p>
- * @author damon
+ * @author Alexander
  * @date 2015年4月9日
  * @version 1.0
  */
@@ -17,7 +17,7 @@ import com.wx.serveplatform.model.WxMenuButton;
 /**
  * <p>Title: WxMenuRepository</p>
  * <p></p> 
- * @author damon
+ * @author Alexander
  * @date 2015年4月9日
  */
 public interface WxMenuRepository extends BaseRepository<WxMenuButton, Integer>,
@@ -26,7 +26,7 @@ public interface WxMenuRepository extends BaseRepository<WxMenuButton, Integer>,
 	/**
 	 * <p>findByFatherButton</p>
 	 * <p></p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年4月9日
 	 * @param id
 	 * @return 

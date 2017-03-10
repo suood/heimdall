@@ -1,7 +1,7 @@
 /**
  * <p>Title: SortUtil.java</p>
  * <p></p>
- * @author damon
+ * @author Alexander
  * @date 2015年1月9日
  * @version 1.0
  */
@@ -10,7 +10,7 @@ package com.wx.serveplatform.common.utils;
 /**
  * <p>Title: SortUtil</p>
  * <p></p>
- * @author damon
+ * @author Alexander
  * @date 2015年1月9日
  */
 public class SortUtil {

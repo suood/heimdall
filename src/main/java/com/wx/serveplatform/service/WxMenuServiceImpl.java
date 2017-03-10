@@ -1,7 +1,7 @@
 /**
  * <p>Title: WxMenuServiceImpl.java</p>
  * <p></p>
- * @author damon
+ * @author Alexander
  * @date 2015年4月9日
  * @version 1.0
  */
@@ -38,15 +38,15 @@ import com.wx.serveplatform.utils.WxApiUtil;
 /**
  * <p>Title: WxMenuServiceImpl</p>
  * <p></p> 
- * @author damon
+ * @author Alexander
  * @date 2015年4月9日
  */
 @Service
 @Transactional
 public class WxMenuServiceImpl implements WxMenuService {
-	public static final String REQUEST_ROB = "http://rob.xiaoma.com";
-    public static final String REQUEST_BINDING = "http://rob.xiaoma.com/rob/user/binding";
-    public static final String REQUEST_CANCELSUB = "http://rob.xiaoma.com/rob/sub/cancelSub";
+	public static final String REQUEST_ROB = "http://rob.suood";
+    public static final String REQUEST_BINDING = "http://rob.suood/rob/user/binding";
+    public static final String REQUEST_CANCELSUB = "http://rob.suood/rob/sub/cancelSub";
     private final String appid = Constants.APPID;
     
 	@Autowired
@@ -63,7 +63,7 @@ public class WxMenuServiceImpl implements WxMenuService {
 	/**
 	 * <p>buildKeywordsSpecification</p>
 	 * <p></p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年4月9日
 	 * @param searchParams
 	 * @return
@@ -128,7 +128,7 @@ public class WxMenuServiceImpl implements WxMenuService {
 	/**
 	 * <p>buildMenu</p>
 	 * <p>构造菜单</p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2014年12月23日
 	 * @return
 	 */

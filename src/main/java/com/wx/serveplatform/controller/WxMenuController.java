@@ -1,7 +1,7 @@
 /**
  * <p>Title: WxMenuController.java</p>
  * <p></p>
- * @author damon
+ * @author Alexander
  * @date 2015年4月8日
  * @version 1.0
  */
@@ -27,7 +27,7 @@ import com.wx.serveplatform.service.WxMenuService;
 /**
  * <p>Title: WxMenuController</p>
  * <p></p> 
- * @author damon
+ * @author Alexander
  * @date 2015年4月8日
  */
 @Controller
@@ -40,7 +40,7 @@ public class WxMenuController {
 	/**
 	 * <p>wxmenu_show</p>
 	 * <p></p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年4月9日
 	 * @param model
 	 * @return
@@ -56,7 +56,7 @@ public class WxMenuController {
 	/**
 	 * <p>wxmenu_add</p>
 	 * <p></p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年4月9日
 	 * @param model
 	 * @return
@@ -73,7 +73,7 @@ public class WxMenuController {
 	/**
 	 * <p>wxmenu_edit</p>
 	 * <p></p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年4月9日
 	 * @param id
 	 * @param model
@@ -93,7 +93,7 @@ public class WxMenuController {
 	/**
 	 * <p>wxmenu_save</p>
 	 * <p></p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年4月9日
 	 * @param model
 	 * @return
@@ -107,7 +107,7 @@ public class WxMenuController {
 	/**
 	 * <p>wxmenu_delete</p>
 	 * <p></p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年4月9日
 	 * @param ids
 	 * @return

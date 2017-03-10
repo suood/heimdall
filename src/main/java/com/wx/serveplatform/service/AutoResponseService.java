@@ -1,7 +1,7 @@
 /**
  * <p>Title: AutoResponseService.java</p>
  * <p></p>
- * @author damon
+ * @author Alexander
  * @date 2015年3月26日
  * @version 1.0
  */
@@ -17,7 +17,7 @@ import com.wx.serveplatform.model.AutoResponse;
 /**
  * <p>Title: AutoResponseService</p>
  * <p></p> 
- * @author damon
+ * @author Alexander
  * @date 2015年3月26日
  */
 public interface AutoResponseService {
@@ -25,7 +25,7 @@ public interface AutoResponseService {
 	/**
 	 * <p>findByCategory</p>
 	 * <p></p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年3月26日
 	 * @param category
 	 * @return
@@ -35,7 +35,7 @@ public interface AutoResponseService {
 	/**
 	 * <p>save</p>
 	 * <p></p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年3月26日
 	 * @param model
 	 * @return
@@ -45,7 +45,7 @@ public interface AutoResponseService {
 	/**
 	 * <p>searchKeywords</p>
 	 * <p></p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年3月31日
 	 * @param searchParams
 	 * @return
@@ -55,7 +55,7 @@ public interface AutoResponseService {
 	/**
 	 * <p>findByIdAndCategory</p>
 	 * <p></p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年4月1日
 	 * @param id
 	 * @param category
@@ -66,7 +66,7 @@ public interface AutoResponseService {
 	/**
 	 * <p>delete</p>
 	 * <p></p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年4月1日
 	 * @param _ids
 	 */

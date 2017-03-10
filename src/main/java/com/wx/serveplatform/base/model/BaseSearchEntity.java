@@ -1,9 +1,9 @@
 /**
  * <p>Title: BaseSearchEntity.java</p>
  * <p>Description: 基础搜索实体，声明常用搜索属性</p>
- * <p>Copyright: Copyright (c) 2014</p>
- * <p>Company: xiaoma.com</p>
- * @author damon
+ *
+ * <p>Company: suood</p>
+ * @author Alexander
  * @date 2014年7月10日
  * @version 1.0
  */
@@ -16,8 +16,8 @@ import org.springframework.format.annotation.DateTimeFormat;
 /**
  * <p>Title: BaseSearchEntity</p>
  * <p>Description: 基础搜索实体，声明常用搜索属性</p>
- * <p>Company: xiaoma.com</p> 
- * @author damon
+ * <p>Company: suood</p>
+ * @author Alexander
  * @date 2014年7月10日
  */
 public class BaseSearchEntity extends BaseEntity {

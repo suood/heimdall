@@ -1,7 +1,7 @@
 /**
  * <p>Title: EhCacheUtil.java</p>
  * <p></p>
- * @author damon
+ * @author Alexander
  * @date 2015年3月12日
  * @version 1.0
  */
@@ -14,7 +14,7 @@ import net.sf.ehcache.Element;
 /**
  * <p>Title: EhCacheUtil</p>
  * <p></p>
- * @author damon
+ * @author Alexander
  * @date 2015年3月12日
  * @version 1.0
  */

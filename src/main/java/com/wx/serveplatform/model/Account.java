@@ -1,7 +1,7 @@
 /**
  * <p>Title: Account.java</p>
  * <p>微信账号信息</p>
- * @author damon
+ * @author Alexander
  * @date 2015年1月19日
  * @version 1.0
  */
@@ -16,7 +16,7 @@ import com.wx.serveplatform.base.model.BaseSearchEntity;
 /**
  * <p>Title: Account</p>
  * <p>微信账号信息</p> 
- * @author damon
+ * @author Alexander
  * @date 2015年1月19日
  */
 @Entity

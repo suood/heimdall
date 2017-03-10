@@ -1,7 +1,7 @@
 /**
  * <p>Title: QrcodeService.java</p>
  * <p></p>
- * @author damon
+ * @author Alexander
  * @date 2015年5月27日
  * @version 1.0
  */
@@ -20,7 +20,7 @@ import com.wx.serveplatform.model.Qrcode;
 /**
  * <p>Title: QrcodeService</p>
  * <p></p> 
- * @author damon
+ * @author Alexander
  * @date 2015年5月27日
  */
 public interface QrcodeService {
@@ -28,7 +28,7 @@ public interface QrcodeService {
 	/**
 	 * <p>propertyDownloadDir</p>
 	 * <p></p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年5月27日
 	 * @param request
 	 * @param targetPath
@@ -38,7 +38,7 @@ public interface QrcodeService {
 	/**
 	 * <p>findAll</p>
 	 * <p></p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年5月27日
 	 * @return
 	 */
@@ -47,7 +47,7 @@ public interface QrcodeService {
 	/**
 	 * <p>createAndDownloadQrcode</p>
 	 * <p></p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年5月27日
 	 * @param request
 	 * @param targetDirectory
@@ -58,7 +58,7 @@ public interface QrcodeService {
 	/**
 	 * <p>findById</p>
 	 * <p></p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年5月27日
 	 * @param id
 	 * @return

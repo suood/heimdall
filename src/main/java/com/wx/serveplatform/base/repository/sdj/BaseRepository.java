@@ -1,9 +1,9 @@
 /**
  * <p>Title: BaseRepository.java</p>
  * <p>Description: </p>
- * <p>Copyright: Copyright (c) 2014</p>
- * <p>Company: xiaoma.com</p>
- * @author damon
+ *
+ * <p>Company: suood</p>
+ * @author Alexander
  * @date 2014年5月28日
  * @version 1.0
  */
@@ -19,8 +19,8 @@ import org.springframework.data.repository.Repository;
  * <p>Title: BaseRepository</p>
  * <p>Description: 抽象出符合jpa规范的方法，可供子接口继承，且能被spring data jpa自动注册、封装实现</p>
  * <p>最佳方案是从原Repository子接口中直接copy方法过来</p>
- * <p>Company: xiaoma.com</p> 
- * @author damon
+ * <p>Company: suood</p>
+ * @author Alexander
  * @date 2014年5月28日
  */
 @NoRepositoryBean

@@ -1,7 +1,7 @@
 /**
  * <p>Title: MaterialController.java</p>
  * <p></p>
- * @author damon
+ * @author Alexander
  * @date 2015年3月5日
  * @version 1.0
  */
@@ -36,7 +36,7 @@ import com.wx.serveplatform.service.MaterialService;
 /**
  * <p>Title: MaterialController</p>
  * <p>素材库管理</p> 
- * @author damon
+ * @author Alexander
  * @date 2015年3月5日
  */
 @Controller
@@ -72,7 +72,7 @@ public class MaterialController {
 	/**
 	 * <p>photo_upload_view</p>
 	 * <p>跳转到图片上传界面</p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年3月6日
 	 * @param model
 	 * @return
@@ -86,7 +86,7 @@ public class MaterialController {
 	/**
 	 * <p>photo_edit</p>
 	 * <p>跳转到图片编辑界面</p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年3月6日
 	 * @param model
 	 * @param id
@@ -104,7 +104,7 @@ public class MaterialController {
 	/**
 	 * <p>photo_upload</p>
 	 * <p>上传图片</p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年3月6日
 	 * @param model
 	 * @param file
@@ -130,7 +130,7 @@ public class MaterialController {
 	/**
 	 * <p>photo_rename</p>
 	 * <p>重命名</p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年3月9日
 	 * @param model
 	 * @return
@@ -148,7 +148,7 @@ public class MaterialController {
 	/**
 	 * <p>delete</p>
 	 * <p>删除图片</p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年3月9日
 	 * @param ids
 	 * @param request

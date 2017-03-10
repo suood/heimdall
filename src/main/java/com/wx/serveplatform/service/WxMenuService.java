@@ -1,7 +1,7 @@
 /**
  * <p>Title: WxMenuService.java</p>
  * <p></p>
- * @author damon
+ * @author Alexander
  * @date 2015年4月9日
  * @version 1.0
  */
@@ -18,7 +18,7 @@ import com.wx.serveplatform.model.WxMenuButton;
 /**
  * <p>Title: WxMenuService</p>
  * <p></p> 
- * @author damon
+ * @author Alexander
  * @date 2015年4月9日
  */
 public interface WxMenuService {
@@ -26,7 +26,7 @@ public interface WxMenuService {
 	/**
 	 * <p>findAll</p>
 	 * <p></p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年4月9日
 	 * @return
 	 */
@@ -35,7 +35,7 @@ public interface WxMenuService {
 	/**
 	 * <p>findById</p>
 	 * <p></p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年4月9日
 	 * @param id
 	 * @return
@@ -45,7 +45,7 @@ public interface WxMenuService {
 	/**
 	 * <p>delete</p>
 	 * <p></p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年4月9日
 	 * @param _ids
 	 */
@@ -54,7 +54,7 @@ public interface WxMenuService {
 	/**
 	 * <p>save</p>
 	 * <p></p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年4月9日
 	 * @param model
 	 * @return
@@ -64,7 +64,7 @@ public interface WxMenuService {
 	/**
 	 * <p>wxmenu_publish</p>
 	 * <p></p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年4月9日
 	 * @throws KeyManagementException
 	 * @throws NoSuchAlgorithmException
@@ -77,7 +77,7 @@ public interface WxMenuService {
 	/**
 	 * <p>findByFatherButton</p>
 	 * <p></p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年4月10日
 	 * @param fid
 	 * @return

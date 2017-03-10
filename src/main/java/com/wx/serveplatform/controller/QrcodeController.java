@@ -1,7 +1,7 @@
 /**
  * <p>Title: QrcodeController.java</p>
  * <p></p>
- * @author damon
+ * @author Alexander
  * @date 2015年5月27日
  * @version 1.0
  */
@@ -29,7 +29,7 @@ import com.wx.serveplatform.service.QrcodeService;
 /**
  * <p>Title: QrcodeController</p>
  * <p></p> 
- * @author damon
+ * @author Alexander
  * @date 2015年5月27日
  */
 @Controller

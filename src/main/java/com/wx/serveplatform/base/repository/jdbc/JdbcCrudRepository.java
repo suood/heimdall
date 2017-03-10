@@ -1,7 +1,7 @@
 /**
  * <p>Title: JdbcCrudRepository.java</p>
  * <p></p>
- * @author damon
+ * @author Alexander
  * @date 2014年12月10日
  * @version 1.0
  */
@@ -12,7 +12,7 @@ import java.util.Collection;
 /**
  * <p>Title: JdbcCrudRepository</p>
  * <p></p> 
- * @author damon
+ * @author Alexander
  * @date 2014年12月10日
  */
 public interface JdbcCrudRepository<T> extends JdbcRepository<T> {

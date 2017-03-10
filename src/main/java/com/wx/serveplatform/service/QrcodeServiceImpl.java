@@ -1,7 +1,7 @@
 /**
  * <p>Title: QrcodeServiceImpl.java</p>
  * <p></p>
- * @author damon
+ * @author Alexander
  * @date 2015年5月27日
  * @version 1.0
  */
@@ -28,7 +28,7 @@ import com.wx.serveplatform.utils.WxApiUtil;
 /**
  * <p>Title: QrcodeServiceImpl</p>
  * <p></p> 
- * @author damon
+ * @author Alexander
  * @date 2015年5月27日
  */
 @Service

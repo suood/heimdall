@@ -9,7 +9,7 @@ import javax.servlet.jsp.tagext.SimpleTagSupport;
 /**
  * 分页标签
  * @author vincent
- * @author Damon
+ * @author Alexander
  * @version 1.0
  * @since 0.2
  */

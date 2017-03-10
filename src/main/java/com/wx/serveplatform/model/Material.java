@@ -1,7 +1,7 @@
 /**
  * <p>Title: Material.java</p>
  * <p></p>
- * @author damon
+ * @author Alexander
  * @date 2015年3月5日
  * @version 1.0
  */
@@ -12,7 +12,7 @@ import com.wx.serveplatform.base.model.BaseSearchEntity;
 /**
  * <p>Title: Material</p>
  * <p></p> 
- * @author damon
+ * @author Alexander
  * @date 2015年3月5日
  */
 public class Material extends BaseSearchEntity {

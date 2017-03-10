@@ -1,7 +1,7 @@
 /**
  * <p>Title: LogUtil.java</p>
  * <p></p>
- * @author damon
+ * @author Alexander
  * @date 2015年3月17日
  * @version 1.0
  */
@@ -13,7 +13,7 @@ import java.io.IOException;
 /**
  * <p>Title: LogUtil</p>
  * <p>日志</p> 
- * @author damon
+ * @author Alexander
  * @date 2015年3月17日
  */
 public class LogUtil {
@@ -21,7 +21,7 @@ public class LogUtil {
 	/**
 	 * <p>log</p>
 	 * <p>往指定路径下写日志</p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年3月17日
 	 * @param logPath
 	 * @param content
@@ -37,7 +37,7 @@ public class LogUtil {
 	/**
 	 * <p>log</p>
 	 * <p>写日志( 默认地址下 )</p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年3月17日
 	 * @param content
 	 * @throws IOException

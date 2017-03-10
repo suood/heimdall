@@ -2,9 +2,9 @@
  * <p>Title: ExportExcel</p>
  * <p>Description: 导出Excel文件（导出“XLSX”格式，支持大数据量导出   
  * @see org.apache.poi.ss.SpreadsheetVersion）</p>
- * <p>Copyright: Copyright (c) 2014</p>
- * <p>Company: xiaoma.com</p>
- * @author damon
+ *
+ * <p>Company: suood</p>
+ * @author Alexander
  * @date 2014年7月9日
  * @version 1.0
  */
@@ -32,8 +32,8 @@ import com.google.common.collect.Lists;
  * <p>Title: ExportExcel</p>
  * <p>Description: 导出Excel文件（导出“XLSX”格式，支持大数据量导出   
  * @see org.apache.poi.ss.SpreadsheetVersion）</p>
- * <p>Company: xiaoma.com</p> 
- * @author damon
+ * <p>Company: suood</p>
+ * @author Alexander
  * @date 2014年7月9日
  */
 public class ExportExcel {

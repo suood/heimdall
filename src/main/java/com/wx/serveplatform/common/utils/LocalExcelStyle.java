@@ -1,7 +1,7 @@
 /**
  * <p>Title: LocalExcelStyle.java</p>
  * <p>自定义EXCEL 样式</p>
- * @author damon
+ * @author Alexander
  * @date 2014年12月30日
  * @version 1.0
  */
@@ -15,7 +15,7 @@ import org.apache.poi.xssf.usermodel.XSSFColor;
 /**
  * <p>Title: LocalExcelStyle</p>
  * <p>自定义EXCEL 样式</p> 
- * @author damon
+ * @author Alexander
  * @date 2014年12月30日
  */
 public class LocalExcelStyle {
@@ -40,7 +40,7 @@ public class LocalExcelStyle {
 	/**
 	 * <p>initialize</p>
 	 * <p></p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2014年12月30日
 	 * @param wb
 	 */

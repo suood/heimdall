@@ -1,9 +1,9 @@
 /**
  * <p>Title: BaseEntity.java</p>
  * <p>Description: 实体顶级父类，声明id属性，实现序列化</p>
- * <p>Copyright: Copyright (c) 2014</p>
- * <p>Company: xiaoma.com</p>
- * @author damon
+ *
+ * <p>Company: suood</p>
+ * @author Alexander
  * @date 2014年7月23日
  * @version 1.0
  */
@@ -17,8 +17,8 @@ import javax.persistence.MappedSuperclass;
 /**
  * <p>Title: BaseEntity</p>
  * <p>Description: 实体顶级父类，声明id属性，实现序列化</p>
- * <p>Company: xiaoma.com</p> 
- * @author damon
+ * <p>Company: suood</p>
+ * @author Alexander
  * @date 2014年7月23日
  */
 @MappedSuperclass

@@ -1,7 +1,7 @@
 /**
  * <p>Title: AccountServiceImpl.java</p>
  * <p></p>
- * @author damon
+ * @author Alexander
  * @date 2015年4月10日
  * @version 1.0
  */
@@ -19,7 +19,7 @@ import com.wx.serveplatform.repository.sdj.AccountRepository;
 /**
  * <p>Title: AccountServiceImpl</p>
  * <p></p> 
- * @author damon
+ * @author Alexander
  * @date 2015年4月10日
  */
 @Service

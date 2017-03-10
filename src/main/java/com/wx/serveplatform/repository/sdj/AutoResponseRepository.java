@@ -1,7 +1,7 @@
 /**
  * <p>Title: AutoResponseRepository.java</p>
  * <p></p>
- * @author damon
+ * @author Alexander
  * @date 2015年3月26日
  * @version 1.0
  */
@@ -17,7 +17,7 @@ import com.wx.serveplatform.model.AutoResponse;
 /**
  * <p>Title: AutoResponseRepository</p>
  * <p></p> 
- * @author damon
+ * @author Alexander
  * @date 2015年3月26日
  */
 public interface AutoResponseRepository extends BaseRepository<AutoResponse, Integer>, JpaSpecificationExecutor<AutoResponse> {
@@ -25,7 +25,7 @@ public interface AutoResponseRepository extends BaseRepository<AutoResponse, Int
 	/**
 	 * <p>findByCategory</p>
 	 * <p></p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年3月26日
 	 * @param category
 	 * @return
@@ -35,7 +35,7 @@ public interface AutoResponseRepository extends BaseRepository<AutoResponse, Int
 	/**
 	 * <p>findByIdAndCategory</p>
 	 * <p></p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年4月1日
 	 * @param id
 	 * @param category

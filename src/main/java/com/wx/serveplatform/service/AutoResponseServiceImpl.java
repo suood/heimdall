@@ -1,7 +1,7 @@
 /**
  * <p>Title: AutoResponseServiceImpl.java</p>
  * <p></p>
- * @author damon
+ * @author Alexander
  * @date 2015年3月26日
  * @version 1.0
  */
@@ -32,7 +32,7 @@ import com.wx.serveplatform.repository.sdj.AutoResponseRepository;
 /**
  * <p>Title: AutoResponseServiceImpl</p>
  * <p></p> 
- * @author damon
+ * @author Alexander
  * @date 2015年3月26日
  */
 @Service
@@ -68,7 +68,7 @@ public class AutoResponseServiceImpl implements AutoResponseService {
 	/**
 	 * <p>buildKeywordsSpecification</p>
 	 * <p>构建查询条件</p>
-	 * @author damon
+	 * @author Alexander
 	 * @date 2015年3月31日
 	 * @param searchParams
 	 * @return

@@ -1,7 +1,7 @@
 /**
  * <p>Title: AutoResponseController.java</p>
  * <p></p>
- * @author damon
+ * @author Alexander
  * @date 2015年3月26日
  * @version 1.0
  */
@@ -28,7 +28,7 @@ import com.wx.serveplatform.utils.WxMaterialUtil;
 /**
  * <p>Title: AutoResponseController</p>
  * <p></p> 
- * @author damon
+ * @author Alexander
  * @date 2015年3月26日
  */
 @Controller
